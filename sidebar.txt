@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xmh:home|Door43 (xmh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xmh|d43-xmh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xmh/archive/master.zip|d43-xmh.zip]]
+
+**Recent Changes**
+{{changes>ns = xmh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xmh|Ethnologue data]]
+
